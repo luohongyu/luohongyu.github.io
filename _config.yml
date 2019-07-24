@@ -1,18 +1,6 @@
-#
-# 这个文档包含了本博客的设定信息，你可以编辑它来个性化自己的博客，
-#
-
-# 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
-# 注意，“name: LOFFER”，冒号后面的空格不可以省略。
-# 井号后面的文字是说明文档，不会被程序读取。
 name: Hongyu Luo
-# 描述/签名
 description: Hongyu Luo's personal blog
 theme: jekyll-theme-slate
-
-#
-# 下面的设定都是可选的
-#
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
 avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
@@ -21,18 +9,18 @@ avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
 
 
-# 菜单中的按钮
+
 navigation:
-  - name: 首页
+  - name: First Page
     url: /
-  - name: 关于
+  - name: About
     url: /about
-  - name: 归档
+  - name: Projects
     url: /archive
-  - name: 标签
+  - name: Life
     url: /tags
 
-# 每页的文章数
+# number of articles in each page
 paginate: 8
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
