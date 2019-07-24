@@ -8,6 +8,8 @@
 name: Hongyu Luo
 # 描述/签名
 description: Hongyu Luo's personal blog
+show_excerpts: true 
+theme: texture
 
 #
 # 下面的设定都是可选的
