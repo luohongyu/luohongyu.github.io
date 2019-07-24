@@ -1,7 +1,14 @@
 ---
 layout: page
-title: 关于
+title: About
 permalink: /about/
 ---
 
-这是一个关于页面，请编辑about.md以介绍你的博客。
+the sea's only gifts are harsh blows, 
+and, occasionally, the chance to feel strong. 
+now, I don't know much about the sea, 
+but I do know that that's the way it is here. 
+and I also know how important it is in life 
+not necessarily to be strong, but to feel strong.
+
+-- <into the wild>
